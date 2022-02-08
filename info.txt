@@ -3,8 +3,5 @@ this is second line
 this is third line
 this is branch demo
 this is second branch demo
-<<<<<<< HEAD
 this is feature-1 line adding extending
-=======
 this is feature-2 line
->>>>>>> c22862aef085f0d38fb1131c1fd9077ff8103656
